@@ -127,3 +127,10 @@ If you’d like to propose changes or contribute improvements, feel free to open
 
 Enjoy Your AI Chatbot!
 You now have a secure, easily integrated chatbot component for your React.js project, powered by OpenAI and Netlify Functions. Simply customize the look and feel, tweak the AI parameters, and build a conversational experience tailored to your needs.
+
+## License
+
+**Acknowledgment**  
+If you use or distribute this code, please include the following in your documentation or metadata:  
+- **Author**: Kristopher Ilich 
+- **Email**: KristopherIlich@gmail.com

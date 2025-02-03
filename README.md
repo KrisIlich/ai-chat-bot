@@ -130,7 +130,7 @@ You now have a secure, easily integrated chatbot component for your React.js pro
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is protected licensed under the [MIT License](https://opensource.org/license/mit).
 
 
 **Acknowledgment**  

@@ -1,5 +1,9 @@
 # AI Chatbot Integration for React
 
+## Code Base Summary
+
+- This AI Chatbot is a React-based conversational interface that uses OpenAI’s API to provide dynamic and context-aware responses directly in your application. It leverages a serverless function (Netlify Functions) to securely handle API requests and protect your OpenAI key, ensuring sensitive data never reaches the client. The included components (ChatBot.js, ChatBotInterface.js, fetchGPTResponse.js, and openaiChat.js) handle everything from the front-end chat interface to the back-end API calls, making it easy to drop into any React project. The chatbot is customizable, allowing you to tailor prompts, style the UI, and fine-tune parameters for the ideal user experience.
+
 This repository provides a simple AI chatbot integration using **OpenAI’s API** and **Netlify Functions**. The following files are included:
 
 - **`ChatBot.js`**  

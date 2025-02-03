@@ -1,4 +1,4 @@
-# Utilize my Free AI Chatbot - Integration Guide for React
+# Utilize my free AI Chatbot - Integration Guide for React
 
 ## Code Base Summary
 

@@ -1,4 +1,4 @@
-# AI GPT Chatbot - Integration Guide
+# AI GPT Chatbot 
 
 ## Overview
 

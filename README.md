@@ -130,6 +130,9 @@ You now have a secure, easily integrated chatbot component for your React.js pro
 
 ## License
 
+This project is licensed under the [MIT License](LICENSE).
+
+
 **Acknowledgment**  
 If you use or distribute this code, it is required to include the following in your documentation or metadata:  
 - **Author**: Kristopher Ilich 

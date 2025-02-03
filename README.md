@@ -131,6 +131,6 @@ You now have a secure, easily integrated chatbot component for your React.js pro
 ## License
 
 **Acknowledgment**  
-If you use or distribute this code, please include the following in your documentation or metadata:  
+If you use or distribute this code, it is required to include the following in your documentation or metadata:  
 - **Author**: Kristopher Ilich 
 - **Email**: KristopherIlich@gmail.com
